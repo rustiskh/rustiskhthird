@@ -1,6 +1,9 @@
 
 
 * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: 'Manrope', sans-serif;
 }
 
@@ -14,3 +17,5 @@
 @import 'blocks/header';
 @import 'blocks/buttons';
 @import 'blocks/feautures';
+@import 'blocks/consultation';
+@import 'blocks/forms';
